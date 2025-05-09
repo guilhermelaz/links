@@ -33,18 +33,18 @@ const LINKS_CONFIG = {
             title: "Redes",
             links: [
                 {
-                    id: "github",
-                    url: "https://github.com/guilhermelaz",
-                    text: "Github",
-                    icon: "fab fa-github",
-                    color: "#24292e"
-                },
-                {
                     id: "whatsapp",
                     url: "https://guilhermelaz.com.br/grupoWhatsapp",
                     text: "Grupo Whatsapp",
                     icon: "fab fa-whatsapp",
                     color: "#25a53e"
+                },
+                {
+                    id: "github",
+                    url: "https://github.com/guilhermelaz",
+                    text: "Github",
+                    icon: "fab fa-github",
+                    color: "#24292e"
                 }
             ]
         }
