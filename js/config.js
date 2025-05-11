@@ -8,7 +8,7 @@ const LINKS_CONFIG = {
             links: [
                 {
                     id: "curso_n8n",
-                    url: "https://guilhermelaz.com.br/cursoN8N",
+                    url: "https://guilhermelaz.com.br/curso",
                     text: "Curso N8N - Criação de agente de IA",
                     icon: "fas fa-graduation-cap",
                     color: "#eb5177"
